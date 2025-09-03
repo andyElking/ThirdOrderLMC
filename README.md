@@ -1,7 +1,7 @@
 <h1 align='center'>Code for the paper "Underdamped Langevin MCMC with third order convergence"</h1>
 <h2 align='center'>by Maximilian Scott, Dáire O'Kane, Andraž Jelinčič and James Foster</h2>
 
-The paper is available at TBA.
+The paper is available at [arxiv.org/abs/2508.16485](https://arxiv.org/abs/2508.16485).
 
 This repository is based on the Diffrax package by Patrick Kidger, which is available at [github.com/patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax).
 The documentation for Diffrax can be found at [docs.kidger.site/diffrax](https://docs.kidger.site/diffrax).
